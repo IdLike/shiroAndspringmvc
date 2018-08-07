@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mavenWeb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5feb0e48-2478-456b-8a06-945597a97845" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="174" column="16" lean-forward="true" selection-start-line="174" selection-start-column="16" selection-end-line="174" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MAVEN/mavenWeb:mavenWeb:1.0-SNAPSHOT" pinned="false" current-in-tab="false">
+        <entry file="uml://MAVEN/mavenWeb:mavenWeb:1.0-SNAPSHOT">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>MAVEN</ID>
+              <OriginalElement>mavenWeb:mavenWeb:1.0-SNAPSHOT</OriginalElement>
+              <nodes>
+                <node x="1007.729663788593" y="730.0">mavenWeb:mavenWeb:1.0-SNAPSHOT</node>
+                <node x="1749.4536858974361" y="560.0">junit:junit:jar:4.11</node>
+                <node x="1719.4536858974361" y="470.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+                <node x="1225.885913788593" y="560.0">org.slf4j:slf4j-nop:jar:1.7.2</node>
+                <node x="1228.385913788593" y="470.0">org.slf4j:slf4j-nop:jar:1.7.2/org.slf4j:slf4j-api:jar:1.7.2</node>
+                <node x="1610.6359137885931" y="380.0">org.apache.shiro:shiro-core:jar:1.2.2</node>
+                <node x="1583.6359137885931" y="300.0">org.apache.shiro:shiro-core:jar:1.2.2/commons-beanutils:commons-beanutils:jar:1.8.3</node>
+                <node x="1608.4536858974361" y="470.0">org.apache.shiro:shiro-web:jar:1.2.2</node>
+                <node x="1562.4536858974361" y="560.0">org.apache.shiro:shiro-spring:jar:1.2.2</node>
+                <node x="1000.0541372318157" y="80.0">org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+                <node x="980.5541372318157" y="0.0">org.springframework:spring-core:jar:4.0.2.RELEASE/commons-logging:commons-logging:jar:1.1.3</node>
+                <node x="901.9016025641026" y="470.0">org.springframework:spring-web:jar:4.0.2.RELEASE</node>
+                <node x="1028.0541372318157" y="200.0">org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE</node>
+                <node x="852.979663788593" y="380.0">org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE</node>
+                <node x="1433.885913788593" y="300.0">org.springframework:spring-oxm:jar:4.0.2.RELEASE</node>
+                <node x="1329.885913788593" y="300.0">org.springframework:spring-tx:jar:4.0.2.RELEASE</node>
+                <node x="1269.885913788593" y="380.0">org.springframework:spring-jdbc:jar:4.0.2.RELEASE</node>
+                <node x="817.0" y="560.0">org.springframework:spring-webmvc:jar:4.0.2.RELEASE</node>
+                <node x="770.6967817896393" y="300.0">org.springframework:spring-webmvc:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE</node>
+                <node x="643.6567176870753" y="300.0">org.springframework:spring-aop:jar:4.0.2.RELEASE</node>
+                <node x="643.8437205651492" y="200.0">org.springframework:spring-aop:jar:4.0.2.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+                <node x="1041.385913788593" y="470.0">org.springframework:spring-context-support:jar:4.0.2.RELEASE</node>
+                <node x="291.0" y="200.0">org.springframework:spring-test:jar:4.0.2.RELEASE</node>
+                <node x="1013.4567176870753" y="560.0">org.mybatis:mybatis:jar:3.2.6</node>
+                <node x="678.0" y="560.0">org.mybatis:mybatis-spring:jar:1.2.2</node>
+                <node x="236.0" y="560.0">javax:javaee-api:jar:7.0</node>
+                <node x="238.0" y="470.0">javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0</node>
+                <node x="238.5" y="380.0">javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0/javax.activation:activation:jar:1.1</node>
+                <node x="500.0" y="560.0">mysql:mysql-connector-java:jar:5.1.30</node>
+                <node x="349.0" y="560.0">org.apache.commons:commons-dbcp2:jar:2.5.0</node>
+                <node x="350.5" y="470.0">org.apache.commons:commons-dbcp2:jar:2.5.0/org.apache.commons:commons-pool2:jar:2.6.0</node>
+                <node x="168.0" y="560.0">jstl:jstl:jar:1.2</node>
+                <node x="0.0" y="560.0">org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+                <node x="10.0" y="470.0">org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="27.714285714285666" y="-15.0" />
+                  <point x="1083.9439495028787" y="670.0" />
+                  <point x="1551.7192471219264" y="670.0" />
+                  <point x="1551.7192471219264" y="130.0" />
+                  <point x="1095.8874705651492" y="130.0" />
+                  <point x="45.833333333333485" y="15.0" />
+                </edge>
+                <edge source="org.apache.shiro:shiro-core:jar:1.2.2" target="org.apache.shiro:shiro-core:jar:1.2.2/commons-beanutils:commons-beanutils:jar:1.8.3">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-context-support:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1124.885913788593" y="280.0" />
+                  <point x="1089.3666372318157" y="280.0" />
+                  <point x="6.8125" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-aop:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="-32.33333333333326" y="-15.0" />
+                  <point x="659.8233843537421" y="280.0" />
+                  <point x="632.6567176870753" y="280.0" />
+                  <point x="632.6567176870753" y="150.0" />
+                  <point x="1020.887470565149" y="150.0" />
+                  <point x="-29.166666666666742" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-tx:jar:4.0.2.RELEASE">
+                  <point x="18.47619047619048" y="-15.0" />
+                  <point x="1074.7058542647835" y="650.0" />
+                  <point x="1392.885913788593" y="650.0" />
+                  <point x="21.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.shiro:shiro-spring:jar:1.2.2" target="org.apache.shiro:shiro-web:jar:1.2.2">
+                  <point x="25.75" y="-15.0" />
+                  <point x="1639.7036858974361" y="540.0" />
+                  <point x="1630.9536858974361" y="540.0" />
+                  <point x="-22.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-jdbc:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+                  <point x="-33.0" y="-15.0" />
+                  <point x="1286.385913788593" y="355.0" />
+                  <point x="1267.6754676870753" y="355.0" />
+                  <point x="1267.6754676870753" y="270.0" />
+                  <point x="1102.9916372318157" y="270.0" />
+                  <point x="20.4375" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="839.1967817896393" y="160.0" />
+                  <point x="1029.2208038984825" y="160.0" />
+                  <point x="-20.833333333333258" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-tx:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+                  <point x="-21.0" y="-15.0" />
+                  <point x="1350.885913788593" y="260.0" />
+                  <point x="1116.6166372318157" y="260.0" />
+                  <point x="34.0625" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="javax:javaee-api:jar:7.0">
+                  <point x="-36.95238095238096" y="-15.0" />
+                  <point x="1019.2772828362121" y="690.0" />
+                  <point x="282.0" y="690.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.slf4j:slf4j-nop:jar:1.7.2">
+                  <point x="9.238095238095184" y="-15.0" />
+                  <point x="1065.4677590266883" y="630.0" />
+                  <point x="1267.385913788593" y="630.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:4.0.2.RELEASE">
+                  <point x="-4.619047619047592" y="-15.0" />
+                  <point x="1051.6106161695454" y="620.0" />
+                  <point x="988.5853872318157" y="620.0" />
+                  <point x="988.5853872318157" y="530.0" />
+                  <point x="975.4016025641026" y="530.0" />
+                  <point x="24.5" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.apache.shiro:shiro-spring:jar:1.2.2">
+                  <point x="32.33333333333337" y="-15.0" />
+                  <point x="1088.5629971219264" y="680.0" />
+                  <point x="1613.9536858974361" y="680.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.0.2.RELEASE">
+                  <point x="-9.238095238095298" y="-15.0" />
+                  <point x="1046.9915685504977" y="630.0" />
+                  <point x="877.5" y="630.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13" target="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.commons:commons-dbcp2:jar:2.5.0" target="org.apache.commons:commons-dbcp2:jar:2.5.0/org.apache.commons:commons-pool2:jar:2.6.0">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="junit:junit:jar:4.11">
+                  <point x="46.19047619047615" y="-15.0" />
+                  <point x="1102.420139979069" y="710.0" />
+                  <point x="1777.4536858974361" y="710.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE" target="org.springframework:spring-webmvc:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE">
+                  <point x="-14.5" y="-15.0" />
+                  <point x="896.479663788593" y="355.0" />
+                  <point x="873.4467817896393" y="355.0" />
+                  <point x="34.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1082.5541372318157" y="180.0" />
+                  <point x="1054.2208038984825" y="180.0" />
+                  <point x="4.1666666666667425" y="15.0" />
+                </edge>
+                <edge source="org.apache.shiro:shiro-spring:jar:1.2.2" target="org.apache.shiro:shiro-core:jar:1.2.2">
+                  <point x="-25.75" y="-15.0" />
+                  <point x="1588.2036858974361" y="450.0" />
+                  <point x="1625.9692471219264" y="450.0" />
+                  <point x="-30.66666666666663" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-aop:jar:4.0.2.RELEASE">
+                  <point x="-18.47619047619048" y="-15.0" />
+                  <point x="1037.7534733124025" y="650.0" />
+                  <point x="667.5" y="650.0" />
+                  <point x="667.5" y="355.0" />
+                  <point x="659.8233843537421" y="355.0" />
+                  <point x="-32.33333333333326" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-tx:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="21.0" y="-15.0" />
+                  <point x="1392.885913788593" y="160.0" />
+                  <point x="1070.887470565149" y="160.0" />
+                  <point x="20.833333333333258" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE" target="org.springframework:spring-aop:jar:4.0.2.RELEASE">
+                  <point x="-43.5" y="-15.0" />
+                  <point x="867.479663788593" y="355.0" />
+                  <point x="724.4900510204086" y="355.0" />
+                  <point x="32.33333333333326" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.0.2.RELEASE">
+                  <point x="-32.33333333333337" y="-15.0" />
+                  <point x="1023.8963304552597" y="680.0" />
+                  <point x="338.5" y="680.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-context-support:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE">
+                  <point x="-55.66666666666663" y="-15.0" />
+                  <point x="1069.2192471219264" y="440.0" />
+                  <point x="949.6463304552598" y="440.0" />
+                  <point x="38.66666666666674" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.30">
+                  <point x="-23.095238095238074" y="-15.0" />
+                  <point x="1033.1344256933548" y="660.0" />
+                  <point x="578.5" y="660.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-aop:jar:4.0.2.RELEASE" target="org.springframework:spring-aop:jar:4.0.2.RELEASE/aopalliance:aopalliance:jar:1.0">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0" target="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0/javax.activation:activation:jar:1.1">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE" target="org.springframework:spring-aop:jar:4.0.2.RELEASE">
+                  <point x="-36.75" y="-15.0" />
+                  <point x="914.1516025641026" y="440.0" />
+                  <point x="691.3963304552597" y="440.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-context-support:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="55.66666666666674" y="-15.0" />
+                  <point x="1180.5525804552599" y="450.0" />
+                  <point x="1543.385913788593" y="450.0" />
+                  <point x="1543.385913788593" y="140.0" />
+                  <point x="1087.5541372318157" y="140.0" />
+                  <point x="37.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="12.25" y="-15.0" />
+                  <point x="963.1516025641026" y="450.0" />
+                  <point x="979.479663788593" y="450.0" />
+                  <point x="979.479663788593" y="180.0" />
+                  <point x="1045.887470565149" y="180.0" />
+                  <point x="-4.1666666666667425" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="877.5" y="520.0" />
+                  <point x="856.948384353742" y="520.0" />
+                  <point x="856.948384353742" y="450.0" />
+                  <point x="872.3129971219263" y="450.0" />
+                  <point x="-38.66666666666674" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-core:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE/commons-logging:commons-logging:jar:1.1.3">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:4.0.2.RELEASE">
+                  <point x="13.85714285714289" y="-15.0" />
+                  <point x="1070.086806645736" y="640.0" />
+                  <point x="1319.385913788593" y="640.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.apache.commons:commons-dbcp2:jar:2.5.0">
+                  <point x="-27.71428571428578" y="-15.0" />
+                  <point x="1028.5153780743071" y="670.0" />
+                  <point x="414.5" y="670.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.apache.shiro:shiro-core:jar:1.2.2">
+                  <point x="41.571428571428555" y="-15.0" />
+                  <point x="1097.8010923600216" y="700.0" />
+                  <point x="1708.9536858974361" y="700.0" />
+                  <point x="1708.9536858974361" y="450.0" />
+                  <point x="1687.3025804552599" y="450.0" />
+                  <point x="30.666666666666742" y="15.0" />
+                </edge>
+                <edge source="org.slf4j:slf4j-nop:jar:1.7.2" target="org.slf4j:slf4j-nop:jar:1.7.2/org.slf4j:slf4j-api:jar:1.7.2">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-oxm:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="24.75" y="-15.0" />
+                  <point x="1508.135913788593" y="150.0" />
+                  <point x="1079.2208038984825" y="150.0" />
+                  <point x="29.166666666666742" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-context-support:jar:4.0.2.RELEASE">
+                  <point x="4.619047619047592" y="-15.0" />
+                  <point x="1060.8487114076406" y="620.0" />
+                  <point x="1124.885913788593" y="620.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.shiro:shiro-web:jar:1.2.2" target="org.apache.shiro:shiro-core:jar:1.2.2">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1653.4536858974361" y="450.0" />
+                  <point x="1656.6359137885931" y="450.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="javax:javaee-api:jar:7.0" target="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE">
+                  <point x="24.200000000000045" y="-15.0" />
+                  <point x="901.7" y="530.0" />
+                  <point x="926.4016025641026" y="530.0" />
+                  <point x="-24.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+                  <point x="48.40000000000009" y="-15.0" />
+                  <point x="925.9000000000001" y="540.0" />
+                  <point x="1030.885913788593" y="540.0" />
+                  <point x="1030.885913788593" y="280.0" />
+                  <point x="1075.7416372318157" y="280.0" />
+                  <point x="-6.8125" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-oxm:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+                  <point x="-24.75" y="-15.0" />
+                  <point x="1458.635913788593" y="250.0" />
+                  <point x="1130.2416372318157" y="250.0" />
+                  <point x="47.6875" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-webmvc:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE">
+                  <point x="-24.200000000000045" y="-15.0" />
+                  <point x="853.3" y="530.0" />
+                  <point x="804.9467817896393" y="530.0" />
+                  <point x="-34.25" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-jdbc:jar:4.0.2.RELEASE" target="org.springframework:spring-tx:jar:4.0.2.RELEASE">
+                  <point x="33.0" y="-15.0" />
+                  <point x="1352.385913788593" y="355.0" />
+                  <point x="1350.885913788593" y="355.0" />
+                  <point x="-21.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13">
+                  <point x="-46.19047619047615" y="-15.0" />
+                  <point x="1010.0391875981169" y="710.0" />
+                  <point x="74.0" y="710.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-jdbc:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1319.385913788593" y="355.0" />
+                  <point x="1315.3703525641026" y="355.0" />
+                  <point x="1315.3703525641026" y="170.0" />
+                  <point x="1062.5541372318157" y="170.0" />
+                  <point x="12.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+                  <point x="43.5" y="-15.0" />
+                  <point x="954.479663788593" y="355.0" />
+                  <point x="952.479663788593" y="355.0" />
+                  <point x="952.479663788593" y="260.0" />
+                  <point x="1048.4916372318157" y="260.0" />
+                  <point x="-34.0625" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.apache.shiro:shiro-web:jar:1.2.2">
+                  <point x="36.95238095238096" y="-15.0" />
+                  <point x="1093.182044740974" y="690.0" />
+                  <point x="1675.9536858974361" y="690.0" />
+                  <point x="22.5" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.mybatis:mybatis-spring:jar:1.2.2">
+                  <point x="-13.85714285714289" y="-15.0" />
+                  <point x="1042.3725209314503" y="640.0" />
+                  <point x="737.5" y="640.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.2.6">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1056.229663788593" y="610.0" />
+                  <point x="1051.9567176870753" y="610.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+                  <point x="36.75" y="-15.0" />
+                  <point x="987.6516025641026" y="450.0" />
+                  <point x="1008.7766025641026" y="450.0" />
+                  <point x="1008.7766025641026" y="270.0" />
+                  <point x="1062.1166372318157" y="270.0" />
+                  <point x="-20.4375" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="jstl:jstl:jar:1.2">
+                  <point x="-41.571428571428555" y="-15.0" />
+                  <point x="1014.6582352171645" y="700.0" />
+                  <point x="192.0" y="700.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-test:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="338.5" y="130.0" />
+                  <point x="1004.2208038984825" y="130.0" />
+                  <point x="-45.83333333333326" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="-48.40000000000009" y="-15.0" />
+                  <point x="829.0999999999999" y="540.0" />
+                  <point x="562.729663788593" y="540.0" />
+                  <point x="562.729663788593" y="140.0" />
+                  <point x="1012.5541372318157" y="140.0" />
+                  <point x="-37.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE">
+                  <point x="-12.25" y="-15.0" />
+                  <point x="938.6516025641026" y="430.0" />
+                  <point x="910.979663788593" y="430.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-oxm:jar:4.0.2.RELEASE">
+                  <point x="23.095238095238074" y="-15.0" />
+                  <point x="1079.324901883831" y="660.0" />
+                  <point x="1483.385913788593" y="660.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+                  <point x="14.5" y="-15.0" />
+                  <point x="925.6134484563061" y="170.0" />
+                  <point x="1037.5541372318157" y="170.0" />
+                  <point x="-12.5" y="15.0" />
+                </edge>
+                <edge source="org.springframework:spring-aop:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+                  <point x="32.33333333333326" y="-15.0" />
+                  <point x="724.4900510204086" y="250.0" />
+                  <point x="1034.8666372318157" y="250.0" />
+                  <point x="-47.6875" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.9536725876140183" x="986.6586961993455" y="340.65869619934557" />
+              <SelectedNodes />
+              <Categories />
+              <VISIBILITY>All</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/webpage/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/lib/bootstrapValidator.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/webpage/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/webpage/register.jsp" />
+        <option value="$PROJECT_DIR$/src/test/resources/shiro.ini" />
+        <option value="$PROJECT_DIR$/src/test/java/TestShiro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/webpage/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/service/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/annotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/annotation/MyAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/entity/mapper/user.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/entity/Role.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/entity/Privilege.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/entity/mapper/userMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/springMVC.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/springmvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context.xml" />
+        <option value="$PROJECT_DIR$/target/classes/spring-context.xml" />
+        <option value="$PROJECT_DIR$/target/classes/spring.xml" />
+        <option value="$PROJECT_DIR$/target/classes/spring-context-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context-dao.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/webpage/login.jsp" />
+        <option value="$PROJECT_DIR$/target/mavenWeb/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/webpage/error.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/webpage/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cl/common/MyRealm.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="webpage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="mavenWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\mavenWeb\src\main\webapp" />
+      <recent name="D:\work\mavenWeb\target\mavenWeb\WEB-INF" />
+      <recent name="D:\work\mavenWeb\src\main\webapp\WEB-INF" />
+      <recent name="D:\work\mavenWeb\src\main\resources" />
+      <recent name="D:\work\mavenWeb\src\main\webapp\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\mavenWeb\src\test\resources" />
+      <recent name="D:\work\mavenWeb\src\main\webapp\WEB-INF" />
+      <recent name="D:\work\mavenWeb\src\main\webapp\lib" />
+      <recent name="D:\work\mavenWeb\src\main\webapp\webpage" />
+      <recent name="D:\work\mavenWeb\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat8">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TestShiro" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="mavenWeb" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestShiro" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="mavenWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/mavenWeb" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mavenWeb" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61033" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mavenWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.tomcat8" />
+      <item itemvalue="JUnit.TestShiro" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5feb0e48-2478-456b-8a06-945597a97845" name="Default" comment="" />
+      <created>1532323824079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532323824079</updated>
+      <workItem from="1532323829702" duration="3788000" />
+      <workItem from="1532327634696" duration="11163000" />
+      <workItem from="1532392425494" duration="4936000" />
+      <workItem from="1532398983900" duration="1969000" />
+      <workItem from="1532409290320" duration="12561000" />
+      <workItem from="1532479681260" duration="18897000" />
+      <workItem from="1532502251989" duration="3289000" />
+      <workItem from="1532505553386" duration="6940000" />
+      <workItem from="1532564740108" duration="2668000" />
+      <workItem from="1532567434456" duration="27028000" />
+      <workItem from="1532651137656" duration="1974000" />
+      <workItem from="1532653166278" duration="1795000" />
+      <workItem from="1532655030396" duration="10720000" />
+      <workItem from="1532670404609" duration="277000" />
+      <workItem from="1532671281357" duration="1058000" />
+      <workItem from="1532672447351" duration="11989000" />
+      <workItem from="1532910678825" duration="20747000" />
+      <workItem from="1532942983754" duration="599000" />
+      <workItem from="1532997239156" duration="825000" />
+      <workItem from="1533008711340" duration="832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestShiro - 2018.07.25 at 09h 36m 51s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.25 at 09h 37m 48s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.25 at 09h 38m 07s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.25 at 09h 58m 57s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.25 at 09h 59m 13s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.25 at 10h 01m 45s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.25 at 10h 13m 20s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.25 at 10h 37m 39s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.27 at 11h 01m 55s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestShiro - 2018.07.27 at 11h 04m 07s.xml">
+      <configuration name="TestShiro" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="144055000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.11043873" side_tool="true" weight="0.8556701" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3298969" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="JSF" order="3" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8895613" weight="0.6305842" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.29553264" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7508591" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3298969" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28517398" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29725087" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3298969" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7508591" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="JSF" order="5" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298969" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.11043873" side_tool="true" weight="0.8556701" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3298969" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29725087" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8895613" weight="0.8556701" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/annotation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/annotation/MyAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/cl/entity/mapper/userMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/lib/bootstrap-table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549">
+          <caret line="3150" column="2" selection-start-line="3150" selection-start-column="2" selection-end-line="3150" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/cl/service/UserService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/shiro.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1744">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/util/ByteSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/entity/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/entity/Privilege.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/entity/mapper/userMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/authz/Permission.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.2.RELEASE/spring-web-4.0.2.RELEASE-sources.jar!/org/springframework/web/filter/DelegatingFilterProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/springmvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/org/apache/shiro/web/mgt/DefaultWebSecurityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1782">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestShiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/target/classes/spring-context.xml" />
+    <entry file="file://$PROJECT_DIR$/target/classes/spring-context-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/mavenWeb/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.2.2/shiro-spring-1.2.2.jar!/org/apache/shiro/spring/web/ShiroFilterFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/spring-context-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/mavenWeb/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work_soft/jdk1.8/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/work_soft/jdk1.8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6.jar!/org/apache/ibatis/binding/MapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/webpage/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="72" column="54" selection-start-line="72" selection-start-column="54" selection-end-line="72" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.2.RELEASE/spring-aop-4.0.2.RELEASE.jar!/org/springframework/aop/framework/ProxyConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.2.RELEASE/spring-aop-4.0.2.RELEASE.jar!/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.2.RELEASE/spring-aop-4.0.2.RELEASE.jar!/org/springframework/aop/framework/autoproxy/DefaultAdvisorAutoProxyCreator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/webpage/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/webpage/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cl/common/MyRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/mavenWeb:mavenWeb:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>mavenWeb:mavenWeb:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="1007.729663788593" y="730.0">mavenWeb:mavenWeb:1.0-SNAPSHOT</node>
+            <node x="1749.4536858974361" y="560.0">junit:junit:jar:4.11</node>
+            <node x="1719.4536858974361" y="470.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="1225.885913788593" y="560.0">org.slf4j:slf4j-nop:jar:1.7.2</node>
+            <node x="1228.385913788593" y="470.0">org.slf4j:slf4j-nop:jar:1.7.2/org.slf4j:slf4j-api:jar:1.7.2</node>
+            <node x="1610.6359137885931" y="380.0">org.apache.shiro:shiro-core:jar:1.2.2</node>
+            <node x="1583.6359137885931" y="300.0">org.apache.shiro:shiro-core:jar:1.2.2/commons-beanutils:commons-beanutils:jar:1.8.3</node>
+            <node x="1608.4536858974361" y="470.0">org.apache.shiro:shiro-web:jar:1.2.2</node>
+            <node x="1562.4536858974361" y="560.0">org.apache.shiro:shiro-spring:jar:1.2.2</node>
+            <node x="1000.0541372318157" y="80.0">org.springframework:spring-core:jar:4.0.2.RELEASE</node>
+            <node x="980.5541372318157" y="0.0">org.springframework:spring-core:jar:4.0.2.RELEASE/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="901.9016025641026" y="470.0">org.springframework:spring-web:jar:4.0.2.RELEASE</node>
+            <node x="1028.0541372318157" y="200.0">org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE</node>
+            <node x="852.979663788593" y="380.0">org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE</node>
+            <node x="1433.885913788593" y="300.0">org.springframework:spring-oxm:jar:4.0.2.RELEASE</node>
+            <node x="1329.885913788593" y="300.0">org.springframework:spring-tx:jar:4.0.2.RELEASE</node>
+            <node x="1269.885913788593" y="380.0">org.springframework:spring-jdbc:jar:4.0.2.RELEASE</node>
+            <node x="817.0" y="560.0">org.springframework:spring-webmvc:jar:4.0.2.RELEASE</node>
+            <node x="770.6967817896393" y="300.0">org.springframework:spring-webmvc:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE</node>
+            <node x="643.6567176870753" y="300.0">org.springframework:spring-aop:jar:4.0.2.RELEASE</node>
+            <node x="643.8437205651492" y="200.0">org.springframework:spring-aop:jar:4.0.2.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="1041.385913788593" y="470.0">org.springframework:spring-context-support:jar:4.0.2.RELEASE</node>
+            <node x="291.0" y="200.0">org.springframework:spring-test:jar:4.0.2.RELEASE</node>
+            <node x="1013.4567176870753" y="560.0">org.mybatis:mybatis:jar:3.2.6</node>
+            <node x="678.0" y="560.0">org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="236.0" y="560.0">javax:javaee-api:jar:7.0</node>
+            <node x="238.0" y="470.0">javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0</node>
+            <node x="238.5" y="380.0">javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0/javax.activation:activation:jar:1.1</node>
+            <node x="500.0" y="560.0">mysql:mysql-connector-java:jar:5.1.30</node>
+            <node x="349.0" y="560.0">org.apache.commons:commons-dbcp2:jar:2.5.0</node>
+            <node x="350.5" y="470.0">org.apache.commons:commons-dbcp2:jar:2.5.0/org.apache.commons:commons-pool2:jar:2.6.0</node>
+            <node x="168.0" y="560.0">jstl:jstl:jar:1.2</node>
+            <node x="0.0" y="560.0">org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13</node>
+            <node x="10.0" y="470.0">org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="27.714285714285666" y="-15.0" />
+              <point x="1083.9439495028787" y="670.0" />
+              <point x="1551.7192471219264" y="670.0" />
+              <point x="1551.7192471219264" y="130.0" />
+              <point x="1095.8874705651492" y="130.0" />
+              <point x="45.833333333333485" y="15.0" />
+            </edge>
+            <edge source="org.apache.shiro:shiro-core:jar:1.2.2" target="org.apache.shiro:shiro-core:jar:1.2.2/commons-beanutils:commons-beanutils:jar:1.8.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="1124.885913788593" y="280.0" />
+              <point x="1089.3666372318157" y="280.0" />
+              <point x="6.8125" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-aop:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="-32.33333333333326" y="-15.0" />
+              <point x="659.8233843537421" y="280.0" />
+              <point x="632.6567176870753" y="280.0" />
+              <point x="632.6567176870753" y="150.0" />
+              <point x="1020.887470565149" y="150.0" />
+              <point x="-29.166666666666742" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-tx:jar:4.0.2.RELEASE">
+              <point x="18.47619047619048" y="-15.0" />
+              <point x="1074.7058542647835" y="650.0" />
+              <point x="1392.885913788593" y="650.0" />
+              <point x="21.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.shiro:shiro-spring:jar:1.2.2" target="org.apache.shiro:shiro-web:jar:1.2.2">
+              <point x="25.75" y="-15.0" />
+              <point x="1639.7036858974361" y="540.0" />
+              <point x="1630.9536858974361" y="540.0" />
+              <point x="-22.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+              <point x="-33.0" y="-15.0" />
+              <point x="1286.385913788593" y="355.0" />
+              <point x="1267.6754676870753" y="355.0" />
+              <point x="1267.6754676870753" y="270.0" />
+              <point x="1102.9916372318157" y="270.0" />
+              <point x="20.4375" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="839.1967817896393" y="160.0" />
+              <point x="1029.2208038984825" y="160.0" />
+              <point x="-20.833333333333258" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-tx:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+              <point x="-21.0" y="-15.0" />
+              <point x="1350.885913788593" y="260.0" />
+              <point x="1116.6166372318157" y="260.0" />
+              <point x="34.0625" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="javax:javaee-api:jar:7.0">
+              <point x="-36.95238095238096" y="-15.0" />
+              <point x="1019.2772828362121" y="690.0" />
+              <point x="282.0" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.slf4j:slf4j-nop:jar:1.7.2">
+              <point x="9.238095238095184" y="-15.0" />
+              <point x="1065.4677590266883" y="630.0" />
+              <point x="1267.385913788593" y="630.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:4.0.2.RELEASE">
+              <point x="-4.619047619047592" y="-15.0" />
+              <point x="1051.6106161695454" y="620.0" />
+              <point x="988.5853872318157" y="620.0" />
+              <point x="988.5853872318157" y="530.0" />
+              <point x="975.4016025641026" y="530.0" />
+              <point x="24.5" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.apache.shiro:shiro-spring:jar:1.2.2">
+              <point x="32.33333333333337" y="-15.0" />
+              <point x="1088.5629971219264" y="680.0" />
+              <point x="1613.9536858974361" y="680.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.0.2.RELEASE">
+              <point x="-9.238095238095298" y="-15.0" />
+              <point x="1046.9915685504977" y="630.0" />
+              <point x="877.5" y="630.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13" target="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13/org.codehaus.jackson:jackson-core-asl:jar:1.9.13">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.commons:commons-dbcp2:jar:2.5.0" target="org.apache.commons:commons-dbcp2:jar:2.5.0/org.apache.commons:commons-pool2:jar:2.6.0">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="junit:junit:jar:4.11">
+              <point x="46.19047619047615" y="-15.0" />
+              <point x="1102.420139979069" y="710.0" />
+              <point x="1777.4536858974361" y="710.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE" target="org.springframework:spring-webmvc:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE">
+              <point x="-14.5" y="-15.0" />
+              <point x="896.479663788593" y="355.0" />
+              <point x="873.4467817896393" y="355.0" />
+              <point x="34.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="1082.5541372318157" y="180.0" />
+              <point x="1054.2208038984825" y="180.0" />
+              <point x="4.1666666666667425" y="15.0" />
+            </edge>
+            <edge source="org.apache.shiro:shiro-spring:jar:1.2.2" target="org.apache.shiro:shiro-core:jar:1.2.2">
+              <point x="-25.75" y="-15.0" />
+              <point x="1588.2036858974361" y="450.0" />
+              <point x="1625.9692471219264" y="450.0" />
+              <point x="-30.66666666666663" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-aop:jar:4.0.2.RELEASE">
+              <point x="-18.47619047619048" y="-15.0" />
+              <point x="1037.7534733124025" y="650.0" />
+              <point x="667.5" y="650.0" />
+              <point x="667.5" y="355.0" />
+              <point x="659.8233843537421" y="355.0" />
+              <point x="-32.33333333333326" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-tx:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="21.0" y="-15.0" />
+              <point x="1392.885913788593" y="160.0" />
+              <point x="1070.887470565149" y="160.0" />
+              <point x="20.833333333333258" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE" target="org.springframework:spring-aop:jar:4.0.2.RELEASE">
+              <point x="-43.5" y="-15.0" />
+              <point x="867.479663788593" y="355.0" />
+              <point x="724.4900510204086" y="355.0" />
+              <point x="32.33333333333326" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.0.2.RELEASE">
+              <point x="-32.33333333333337" y="-15.0" />
+              <point x="1023.8963304552597" y="680.0" />
+              <point x="338.5" y="680.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE">
+              <point x="-55.66666666666663" y="-15.0" />
+              <point x="1069.2192471219264" y="440.0" />
+              <point x="949.6463304552598" y="440.0" />
+              <point x="38.66666666666674" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.30">
+              <point x="-23.095238095238074" y="-15.0" />
+              <point x="1033.1344256933548" y="660.0" />
+              <point x="578.5" y="660.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-aop:jar:4.0.2.RELEASE" target="org.springframework:spring-aop:jar:4.0.2.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0" target="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0/javax.activation:activation:jar:1.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE" target="org.springframework:spring-aop:jar:4.0.2.RELEASE">
+              <point x="-36.75" y="-15.0" />
+              <point x="914.1516025641026" y="440.0" />
+              <point x="691.3963304552597" y="440.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="55.66666666666674" y="-15.0" />
+              <point x="1180.5525804552599" y="450.0" />
+              <point x="1543.385913788593" y="450.0" />
+              <point x="1543.385913788593" y="140.0" />
+              <point x="1087.5541372318157" y="140.0" />
+              <point x="37.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="12.25" y="-15.0" />
+              <point x="963.1516025641026" y="450.0" />
+              <point x="979.479663788593" y="450.0" />
+              <point x="979.479663788593" y="180.0" />
+              <point x="1045.887470565149" y="180.0" />
+              <point x="-4.1666666666667425" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="877.5" y="520.0" />
+              <point x="856.948384353742" y="520.0" />
+              <point x="856.948384353742" y="450.0" />
+              <point x="872.3129971219263" y="450.0" />
+              <point x="-38.66666666666674" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-core:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE/commons-logging:commons-logging:jar:1.1.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:4.0.2.RELEASE">
+              <point x="13.85714285714289" y="-15.0" />
+              <point x="1070.086806645736" y="640.0" />
+              <point x="1319.385913788593" y="640.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.apache.commons:commons-dbcp2:jar:2.5.0">
+              <point x="-27.71428571428578" y="-15.0" />
+              <point x="1028.5153780743071" y="670.0" />
+              <point x="414.5" y="670.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.apache.shiro:shiro-core:jar:1.2.2">
+              <point x="41.571428571428555" y="-15.0" />
+              <point x="1097.8010923600216" y="700.0" />
+              <point x="1708.9536858974361" y="700.0" />
+              <point x="1708.9536858974361" y="450.0" />
+              <point x="1687.3025804552599" y="450.0" />
+              <point x="30.666666666666742" y="15.0" />
+            </edge>
+            <edge source="org.slf4j:slf4j-nop:jar:1.7.2" target="org.slf4j:slf4j-nop:jar:1.7.2/org.slf4j:slf4j-api:jar:1.7.2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-oxm:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="24.75" y="-15.0" />
+              <point x="1508.135913788593" y="150.0" />
+              <point x="1079.2208038984825" y="150.0" />
+              <point x="29.166666666666742" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-context-support:jar:4.0.2.RELEASE">
+              <point x="4.619047619047592" y="-15.0" />
+              <point x="1060.8487114076406" y="620.0" />
+              <point x="1124.885913788593" y="620.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.shiro:shiro-web:jar:1.2.2" target="org.apache.shiro:shiro-core:jar:1.2.2">
+              <point x="0.0" y="-15.0" />
+              <point x="1653.4536858974361" y="450.0" />
+              <point x="1656.6359137885931" y="450.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="javax:javaee-api:jar:7.0" target="javax:javaee-api:jar:7.0/com.sun.mail:javax.mail:jar:1.5.0">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE">
+              <point x="24.200000000000045" y="-15.0" />
+              <point x="901.7" y="530.0" />
+              <point x="926.4016025641026" y="530.0" />
+              <point x="-24.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+              <point x="48.40000000000009" y="-15.0" />
+              <point x="925.9000000000001" y="540.0" />
+              <point x="1030.885913788593" y="540.0" />
+              <point x="1030.885913788593" y="280.0" />
+              <point x="1075.7416372318157" y="280.0" />
+              <point x="-6.8125" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-oxm:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+              <point x="-24.75" y="-15.0" />
+              <point x="1458.635913788593" y="250.0" />
+              <point x="1130.2416372318157" y="250.0" />
+              <point x="47.6875" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-webmvc:jar:4.0.2.RELEASE/org.springframework:spring-expression:jar:4.0.2.RELEASE">
+              <point x="-24.200000000000045" y="-15.0" />
+              <point x="853.3" y="530.0" />
+              <point x="804.9467817896393" y="530.0" />
+              <point x="-34.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.0.2.RELEASE" target="org.springframework:spring-tx:jar:4.0.2.RELEASE">
+              <point x="33.0" y="-15.0" />
+              <point x="1352.385913788593" y="355.0" />
+              <point x="1350.885913788593" y="355.0" />
+              <point x="-21.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13">
+              <point x="-46.19047619047615" y="-15.0" />
+              <point x="1010.0391875981169" y="710.0" />
+              <point x="74.0" y="710.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="1319.385913788593" y="355.0" />
+              <point x="1315.3703525641026" y="355.0" />
+              <point x="1315.3703525641026" y="170.0" />
+              <point x="1062.5541372318157" y="170.0" />
+              <point x="12.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+              <point x="43.5" y="-15.0" />
+              <point x="954.479663788593" y="355.0" />
+              <point x="952.479663788593" y="355.0" />
+              <point x="952.479663788593" y="260.0" />
+              <point x="1048.4916372318157" y="260.0" />
+              <point x="-34.0625" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.apache.shiro:shiro-web:jar:1.2.2">
+              <point x="36.95238095238096" y="-15.0" />
+              <point x="1093.182044740974" y="690.0" />
+              <point x="1675.9536858974361" y="690.0" />
+              <point x="22.5" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.mybatis:mybatis-spring:jar:1.2.2">
+              <point x="-13.85714285714289" y="-15.0" />
+              <point x="1042.3725209314503" y="640.0" />
+              <point x="737.5" y="640.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.2.6">
+              <point x="0.0" y="-15.0" />
+              <point x="1056.229663788593" y="610.0" />
+              <point x="1051.9567176870753" y="610.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+              <point x="36.75" y="-15.0" />
+              <point x="987.6516025641026" y="450.0" />
+              <point x="1008.7766025641026" y="450.0" />
+              <point x="1008.7766025641026" y="270.0" />
+              <point x="1062.1166372318157" y="270.0" />
+              <point x="-20.4375" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="jstl:jstl:jar:1.2">
+              <point x="-41.571428571428555" y="-15.0" />
+              <point x="1014.6582352171645" y="700.0" />
+              <point x="192.0" y="700.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-test:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="338.5" y="130.0" />
+              <point x="1004.2208038984825" y="130.0" />
+              <point x="-45.83333333333326" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="-48.40000000000009" y="-15.0" />
+              <point x="829.0999999999999" y="540.0" />
+              <point x="562.729663788593" y="540.0" />
+              <point x="562.729663788593" y="140.0" />
+              <point x="1012.5541372318157" y="140.0" />
+              <point x="-37.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE">
+              <point x="-12.25" y="-15.0" />
+              <point x="938.6516025641026" y="430.0" />
+              <point x="910.979663788593" y="430.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="mavenWeb:mavenWeb:1.0-SNAPSHOT" target="org.springframework:spring-oxm:jar:4.0.2.RELEASE">
+              <point x="23.095238095238074" y="-15.0" />
+              <point x="1079.324901883831" y="660.0" />
+              <point x="1483.385913788593" y="660.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-context:jar:4.0.2.RELEASE" target="org.springframework:spring-core:jar:4.0.2.RELEASE">
+              <point x="14.5" y="-15.0" />
+              <point x="925.6134484563061" y="170.0" />
+              <point x="1037.5541372318157" y="170.0" />
+              <point x="-12.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-aop:jar:4.0.2.RELEASE" target="org.springframework:spring-web:jar:4.0.2.RELEASE/org.springframework:spring-beans:jar:4.0.2.RELEASE">
+              <point x="32.33333333333326" y="-15.0" />
+              <point x="724.4900510204086" y="250.0" />
+              <point x="1034.8666372318157" y="250.0" />
+              <point x="-47.6875" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9536725876140183" x="986.6586961993455" y="340.65869619934557" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="174" column="16" lean-forward="true" selection-start-line="174" selection-start-column="16" selection-end-line="174" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mavenWeb:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mavenWeb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
